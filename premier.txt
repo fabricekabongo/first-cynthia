@@ -3,3 +3,4 @@ je vais en ville.
 dit, tu es ou?
 
 ceci a ete ecrit sur github
+et ceci sur ma machine
